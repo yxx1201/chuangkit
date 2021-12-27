@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a,
+div {
+    text-decoration: none;
+    color: #333;
+    -webkit-tap-highlight-color: transparent;
+}
+ul,
+li,
+ol {
+    list-style: none;
+}
+input {
+    border: 0;
+    padding: 2px 5px;
+    outline: none;
+}
+i,
+em {
+    font-style: normal;
+    text-decoration: none;
+}
+
+.w {
+    /*版心 提取 */
+    width: 1210px;
+    margin: 0 auto;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.al {
+    text-align: left;
+}
+.ac {
+    text-align: center;
+}
+.ar {
+    text-align: right;
+}
+.hide {
+    display: none;
+}
